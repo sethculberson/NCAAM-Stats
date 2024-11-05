@@ -8,11 +8,11 @@ def getImage(path):
     img = plt.imread(path)
     
     # Calculate the zoom to scale the image to 10x10 pixels
-    zoom = 20 / max(img.shape[:2])
+    zoom = 25 / max(img.shape[:2])
     
     return OffsetImage(img, zoom=zoom, alpha=1.0)
 
-def generatePlot():
+def generatePlot(x="", y=""):
     plt.rcParams["toolbar"] = "None"
 
     df = pd.read_csv("23-24seasondata.csv")
@@ -44,3 +44,4 @@ def generatePlot():
     plt.xlabel("Offensive Rebounds Per Game")
     plt.ylabel("Total Wins")
     plt.show()
+generatePlot()
