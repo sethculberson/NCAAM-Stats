@@ -1,1 +1,3 @@
 # NCAAM-Stats
+All Data provided via sports-reference.com
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="https://www.sports-reference.com/cbb/seasons/men/2024-school-stats.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#basic_school_stats">View Original Table</a><br>Generated 12/30/2024.
